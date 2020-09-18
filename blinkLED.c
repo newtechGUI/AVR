@@ -1,5 +1,5 @@
 /*
- * clignotement_LED.c
+ * blinkLED.c
  *
  * Created: 25-11-19 20:17:05
  * Author : newtechGUI
